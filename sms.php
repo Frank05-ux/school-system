@@ -3,7 +3,7 @@
 function sendSMS($phone, $message){
 
     $username = "sandbox"; // change in production
-    $apiKey   = "atsk_6ecd379d45e488f675ed18739b7df6a5a5d7caed3122e92d0c494ccb394d08308f8f4890";
+    $apiKey   = "";
 
     $url = "https://api.africastalking.com/version1/messaging";
 
